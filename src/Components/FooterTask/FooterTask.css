@@ -1,0 +1,13 @@
+.footer{
+    display:flex;
+    justify-content: space-between;
+    width: 100%;
+    position: absolute;
+    bottom: 10px;
+}
+
+.footer-left , .footer-right {
+    font-size:24px;
+    font-weight: bold;
+    padding: 10px;
+}

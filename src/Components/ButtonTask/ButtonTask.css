@@ -1,0 +1,27 @@
+.wrap-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.btn {
+    width: 60%;
+    background-color: #45A808;
+    height:67px;
+    border-radius: 30px;
+}
+
+.btn:hover{
+    opacity: 0.9;
+}
+
+.btn > p {
+    padding-top: 3px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.stop {
+    background-color:red;
+}

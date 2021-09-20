@@ -1,0 +1,18 @@
+.header-container{
+    display:flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.text-header-center {
+    font-size:36px;
+    margin: 20px;
+    color: #45A808;
+    font-weight: bold;
+}
+
+.text-header-left, .text-header-right {
+    font-size:24px;
+    font-weight: bold;
+    padding: 10px;
+}
