@@ -10,6 +10,7 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 sudo docker–compose --version
 ```
+![Alt text](https://github.com/falconsoft3d/reactlang/blob/main/img/qr.png?raw=true "qr reactlang")
 
 # Install App
 ```
