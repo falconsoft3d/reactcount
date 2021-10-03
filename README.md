@@ -12,7 +12,7 @@ sudo docker–compose --version
 ```
 link: https://gracious-lovelace-c6b979.netlify.app/
 
-![Alt text](https://github.com/falconsoft3d/reactlang/blob/main/img/qrw.png?raw=true "qr reactlang")
+![Alt text](https://github.com/falconsoft3d/reactlang/blob/main/img/qr.png?raw=true "qr reactlang")
 
 # Install App
 ```
